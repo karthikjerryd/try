@@ -10,7 +10,7 @@ pipeline {
 
         stage('Clone Repository') {
             steps {
-                git 'https://github.com/SanthoshRamachandiran/Demo-Continue-Integration.git'
+                git 'https://github.com/karthikjerryd/try.git'
             }
         }
 
